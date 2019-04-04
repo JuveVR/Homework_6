@@ -56,8 +56,3 @@ for i in list_check.json():
         pass
 
 requests.delete(base_url+role_id)
-
-
-
-
-
